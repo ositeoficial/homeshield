@@ -1,0 +1,18 @@
+body {
+            --background-header-var: #662424;
+--background-footer-var: #682c2c;
+--background-content-var: #e3eae7;
+--text-color-var: #050505;
+--navigation-link-color-var: #f3f2f2;
+--navigation-link-color-active-var: #FFFFFF;
+--link-color-var: #ef0707;
+--link-color-active-var: #ef0707;
+--button-text-color-var: #f1eeee;
+--button-color-var: #ef0707;
+--button-color-active-var: #c48181;
+--li-marker-color-var: #ef0707;
+--shadow-var: 0 2px 6px 0 rgba(#32325D, 0.5);
+--border-radius-var: 10px;
+--font-var: Lato;
+
+        }
